@@ -17,7 +17,7 @@ shinyUI(pageWithSidebar(
                 h4('You entered'),
                 verbatimTextOutput("oid2"),
                 h4('You entered'),
-                verbatimTextOutput("odate"),
+                verbatimTextOutput("odate")
                 )
         )
         )
